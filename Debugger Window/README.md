@@ -2,18 +2,19 @@
 
 Feel free to use this utility in your experience for some easy multi-variable debugging.
 <br/>
-Developed in **Lens Studio 4.25.1**
+Developed in **Lens Studio 4.34**
 
 ## How to use
 
-Drag the **Debugger v1.2.lso** file under an **Orthographic Camera** in **Lens Studio**.
+Drag the **Debugger v1.3.lso** file under an **Orthographic Camera** in **Lens Studio**.
 <br/>
 To debug variables use:
 ```
-global.debug(myVar, number);
+global.debug(myVar);
 ```
-The second argument in the function is optional **(number)**.
-<br/>
-Use it when you've debugged the **same variable more than once** in your code **(enter the same number in all instances)**.
-<br/>
-When previewing, tap the close button in the lower right corner of the debug window to hide it.
+Modify the Debug Window in the **Inspector** panel.
+<ul>
+    <li>1</li>
+    <li>3</li>
+    <li>4</li>
+</ul>
