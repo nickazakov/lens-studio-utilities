@@ -1,6 +1,6 @@
 # Debugger Window
 
-Feel free to use this utility in your experience for some easy multi-variable debugging.
+Feel free to use this lightweight debugger utility in your experience for some easy multi-variable debugging.
 <br/>
 Developed in **Lens Studio 4.34**
 
@@ -12,9 +12,12 @@ To debug variables use:
 ```
 global.debug(myVar);
 ```
-Modify the Debug Window in the **Inspector** panel.
+Modify the window from the **"Debug Window" SceneObject** directly in the **Inspector** panel.
+<br/>
+Available Settings:
 <ul>
-    <li>1</li>
-    <li>3</li>
-    <li>4</li>
+    <li>Choose whether the debug window starts minimized</li>
+    <li>Change the debug window background color & opacity</li>
+    <li>Change the debug window text color</li>
+    <li>Specify the amount of lines needed for the debug window to automatically clear the text</li>
 </ul>
