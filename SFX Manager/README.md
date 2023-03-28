@@ -21,5 +21,5 @@ Modify the manager script directly in the **Inspector** panel.
 Available Settings:
 <ul>
     <li>Choose whether you want to select a looping background audio</li>
-    <li>Enable MAI (Multiple Audio Instances) - allows multiple instances of the same sfx to be played all at once</li>
+    <li>Enable MAI (Multiple Audio Instancing) - allows multiple instances of the same sfx to be played all at once</li>
 </ul>
