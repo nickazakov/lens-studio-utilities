@@ -1,5 +1,13 @@
-# Lens Studio Utilities
-A collection of handy Lens Studio tools &amp; utilities.
+# Radial Progress Bar Material
+
+Feel free to use this highly-customizable progress bar material in your experience.
 <br/>
-I'll try to update those with each new version of Lens Studio.
-![Radial Progress Bar Preview](https://user-images.githubusercontent.com/26342423/228323133-20d08740-4196-4fa8-8697-3f325dd049b4.mp4)
+Developed in **Lens Studio 4.43**
+
+## How to use
+
+Use the material on any screen/world image.
+<br/>
+Tweak the material in the **Inspector** panel to change the style & behaviour of the progress bar.
+<br/>
+Use the **progress** material parameter to change the progress value from any script.
